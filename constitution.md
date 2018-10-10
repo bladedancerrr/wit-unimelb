@@ -105,7 +105,8 @@ If fifteen members, or one third of the membership, whichever is the smaller, sh
 for a general meeting, such meeting must be held within fifteen academic days, at a date to be set by the
 committee.
 
-## 11. 
+## 11. Meeting Quorum
+
 The quorum shall be:
 
 ### 11.1
@@ -115,7 +116,7 @@ members of the club.
 At a committee meeting, three committee members, at least one of whom must be a member of the
 executive.
 
-## 12. Meeting Quorum
+## 12. Meeting Notice
 
 ### 12.1
 The committee shall be required to give at least five academic days notice of a General Meeting (GM),
